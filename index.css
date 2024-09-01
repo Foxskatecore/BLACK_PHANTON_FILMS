@@ -2,7 +2,7 @@ body {
     font-family: monospace;
     margin: 0;
     padding: 20px;
-    background-image: url('/public/assets/image/tim-mossholder-X2nkKxBtvhY-unsplash.jpg');
+    background-image: url('public/assets/image/tim-mossholder-X2nkKxBtvhY-unsplash.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
